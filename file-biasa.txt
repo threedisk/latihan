@@ -1,0 +1,2 @@
+Ini adalah file biasa yang bisa diakses publik dan tidak berisi secret atau rahasia
+
