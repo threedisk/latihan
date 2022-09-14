@@ -1,2 +1,4 @@
-Ini adalah file rahasia
+Ini adalah file rahasia. 
+Setelah diuji coba menggunakan file-rahasia.txt yang sudah dideskripsikan dengan .gitignore, maka file tidak akan di-push ke repository.
+Jika file rahasia.txt tersebut memang dibuat agar di-push terlebih dahulu ke repo baru ditambahkan ke .gitignore, maka hasilnya akan tetap di-push ke repo
 
